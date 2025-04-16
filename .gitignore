@@ -1,11 +1,8 @@
 .env
-venv
-venv/
-.venv/
-venv
 logs
 networksecurity.egg-info
 Artifacts
 __pycache__
 /.env
 mlruns
+vnev/
