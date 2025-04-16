@@ -1,0 +1,1 @@
+Goal of the projet is to identify whether a URL is phising URL or not
